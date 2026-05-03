@@ -1,17 +1,40 @@
-# campus_event_manager
+Campus Event Manager
 
-A new Flutter project.
+Description
 
-## Getting Started
+Campus Event Manager is a mobile application developed with Flutter that allows students to manage and view academic and social events.
 
-This project is a starting point for a Flutter application.
+The application uses Material 3 with a modern interface and a custom color palette (Teal \& Deep Purple).
 
-A few resources to get you started if this is your first Flutter project:
+Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Display a list of events
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add an event
+
+Delete an event
+
+Display the total number of events
+
+Loading simulation (asynchronous programming)
+
+Technologies Used
+
+Flutter
+
+Dart
+
+Material 3
+
+Running the Project
+
+Bash
+
+flutter pub get
+
+flutter run
+
+GitHub Repository
+
+https://github.com/phineasove-hash/campus-event-manager⁠
+
